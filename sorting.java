@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Sorting{  
+public class sorting{  
     static void sort(int[] arr, int n){  
         int tmp = 0;  
         for(int i = 0; i < n; i++){  
